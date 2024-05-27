@@ -37,7 +37,7 @@ Block Runners is a high-speed, score-based 3D game where players navigate throug
 
 ## Screenshots
 
-![Gameplay Screenshot](path/to/screenshot.png)
+![Gameplay Screenshot](https://github.com/OkimaSha/Block-Runners/blob/main/Block%20runners%20Gameplay.png)
 
 ## Contributing
 
@@ -46,11 +46,3 @@ Block Runners is a high-speed, score-based 3D game where players navigate throug
 3. Commit your changes (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries, please reach out to me at [your-email@example.com].
