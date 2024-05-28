@@ -23,7 +23,7 @@ Block Runners is a high-speed, score-based 3D game where players navigate throug
 - **Real-time scoring**: Keep track of your performance and strive to beat your high score.
   
 ## Download
-1. Navigate to [ZIP of just game](https://github.com/OkimaSha/Block-Runners/blob/main/Latest%20Build%20Blockrunners.zip)
+1. Navigate to [ZIP Latest build Block Runners](https://github.com/OkimaSha/Block-Runners/blob/main/Latest%20Build%20Blockrunners.zip)
 2. Extract Latest Build and run game
    
 ## Installation
@@ -39,10 +39,3 @@ Block Runners is a high-speed, score-based 3D game where players navigate throug
 
 ![Gameplay Screenshot](https://github.com/OkimaSha/Block-Runners/blob/main/Block%20runners%20Gameplay.png)
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
