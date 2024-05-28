@@ -37,5 +37,5 @@ Block Runners is a high-speed, score-based 3D game where players navigate throug
 
 ## Screenshots
 
-![Gameplay Screenshot](https://github.com/OkimaSha/Block-Runners/blob/main/Block%20runners%20Gameplay.png)
+![Gameplay Screenshot](https://github.com/OkimaSha/Block-Runners/blob/main/MainImage.png)
 
